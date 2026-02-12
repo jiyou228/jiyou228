@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=200&section=header&fontSize=80&text=Hi👋%20I'm%20JIYOU!" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyou228)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyou228)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jiyou228)
 
 
 ## List
